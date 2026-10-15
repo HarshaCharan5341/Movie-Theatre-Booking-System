@@ -1,0 +1,5 @@
+# movie_id|name|genre|duration_min|language|certificate
+101|Avengers Endgame|Action|181|English|U/A
+102|Baahubali 2|Fantasy|171|Telugu|U/A
+103|Dhurandhar|Thriller|214|Hindi|A
+104|Pushpa|Drama|179|Telugu|U/A

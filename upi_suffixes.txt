@@ -1,0 +1,11 @@
+# Valid UPI handles, one per line, without the @
+okaxis
+oksbi
+okhdfcbank
+okicici
+ybl
+ibl
+axl
+paytm
+upi
+apl

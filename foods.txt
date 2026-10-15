@@ -1,0 +1,8 @@
+# id|name|price
+1|Popcorn|220
+2|Samosa|80
+3|Nachos|120
+4|French Fries|130
+5|Sandwich|150
+6|Pizza|280
+7|Burger|160

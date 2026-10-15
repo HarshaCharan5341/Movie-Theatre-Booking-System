@@ -1,0 +1,6 @@
+# id|name|price
+1|Water|60
+2|Coke|100
+3|Pepsi|100
+4|Sprite|100
+5|Fanta|100
